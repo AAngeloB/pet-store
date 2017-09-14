@@ -1,0 +1,16 @@
+body{
+	background-color: #50A8DB;
+}
+
+#store-name{
+	color: maroon;
+}
+
+.individual-pet{
+	text-align: center;
+}
+
+.pet-img{
+	height: 250px;
+	width: 250px;
+}
